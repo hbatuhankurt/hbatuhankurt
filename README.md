@@ -1,7 +1,7 @@
-I’m currently working at Ericsson as a Software Developer
+Founder & Software Developer at HBK GROUP LTD & HBK SOFTWARE LTD
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hbatuhankurt/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hbatuhankurt) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8178503/hasan-batuhan-kurt) 
 
 # 💻 Tech Stack:
