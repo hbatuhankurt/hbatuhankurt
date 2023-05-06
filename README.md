@@ -1,4 +1,4 @@
-Founder & Software Developer at HBK GROUP LTD & HBK SOFTWARE LTD
+Founder of HBK SOFTWARE LTD
 
 
 # 🌐 Socials:
